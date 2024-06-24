@@ -1,0 +1,4 @@
+2024-06-24 21:37:14 | DEBUG | D:\Student\InfSySu\Log\log\log.cpp:106 -> Debug Message
+2024-06-24 21:37:14 | INFO | D:\Student\InfSySu\Log\log\log.cpp:107 -> Information message
+2024-06-24 21:37:14 | WARNING | D:\Student\InfSySu\Log\log\log.cpp:108 -> Warning message
+2024-06-24 21:37:14 | ERROR | D:\Student\InfSySu\Log\log\log.cpp:109 -> Error message
